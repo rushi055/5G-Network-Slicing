@@ -2,7 +2,7 @@
 ---
 
 # Network Slicing in 5G – Data-Driven Analysis  
-### 2024Gr14RC431_5G_Slicing
+### 2024GR07EC431
 
 ---
 
