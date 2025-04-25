@@ -9,7 +9,7 @@
 ## Group Details:
 
 - **Rushikesh Chaudhari** - 202251113  
-- **Gopal Verma ** - 202251173 
+- **Gopal Verma** - 202251173 
 - **Kirtan Parikh** - 202251085
 - **Yash Bhattad** - 202251162
 
